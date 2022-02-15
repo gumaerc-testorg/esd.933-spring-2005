@@ -3,8 +3,13 @@ content_type: resource
 description: This resource provides information about strategic negotiations, essence
   of strategy, essence of negotiations, bargaining strategies, sequencing forcing
   and fostering strategies.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/esd-933-technology-policy-negotiations-and-dispute-resolution-spring-2005/cbaca14d0c01b7fc1b5c391cdb9054a6_tpp_ses2_str_neg.pdf
+file: /media/courses/esd-933-technology-policy-negotiations-and-dispute-resolution-spring-2005/cbaca14d0c01b7fc1b5c391cdb9054a6_tpp_ses2_str_neg.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: tpp_ses2_str_neg.pdf
 uid: cbaca14d-0c01-b7fc-1b5c-391cdb9054a6
