@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 52df980e-134a-afff-b316-e33126963ea1
 resourcetype: Document
 title: tpp_ses4b_trcosy.pdf
 uid: 526e1edf-6ee6-0566-bc10-3caf5e064148

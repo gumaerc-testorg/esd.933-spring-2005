@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 52df980e-134a-afff-b316-e33126963ea1
 resourcetype: Document
 title: tpp_ses10_emp_ne.pdf
 uid: 07c3fd0b-8db8-b69d-8eb0-8023e585357a

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 52df980e-134a-afff-b316-e33126963ea1
 resourcetype: Document
 title: tpp_ses2_str_neg.pdf
 uid: cbaca14d-0c01-b7fc-1b5c-391cdb9054a6
