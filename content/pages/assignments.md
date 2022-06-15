@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Instructions and grading criteria for the writing assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

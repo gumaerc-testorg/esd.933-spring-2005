@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Select sets of lecture slides from the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -49,7 +50,7 @@ Introduction
 Strategic Negotiations and Interest-Based Bargaining Principles
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF 1]({{< baseurl >}}/resources/tpp_ses2_str_neg)) ([PDF 2]({{< baseurl >}}/resources/tpp_ses3_ibb))
+({{% resource_link cbaca14d-0c01-b7fc-1b5c-391cdb9054a6 "PDF 1" %}}) ({{% resource_link 2ba1f2dd-b8a7-e26c-493f-ecd31e9bf9f2 "PDF 2" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +62,7 @@ Strategic Negotiations and Interest-Based Bargaining Principles
 Dispute Resolution Systems and ADR
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF 1]({{< baseurl >}}/resources/tpp_ses4a_cr_sys)) ([PDF 2]({{< baseurl >}}/resources/tpp_ses4b_trcosy))
+({{% resource_link 987c411d-1058-fabf-0a86-b0bae10cb260 "PDF 1" %}}) ({{% resource_link 526e1edf-6ee6-0566-bc10-3caf5e064148 "PDF 2" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +80,7 @@ Dispute Resolution Systems and ADR
 Five Phase Model\* and Communication Skills
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/tpp_ses5_int_ski))
+({{% resource_link 258b31e9-0822-aa64-a145-2ce2c0c3d13e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,7 +122,7 @@ Rules of the Game
 Cross-Cultural Negotiations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/tpp_ses7_cr_cul))
+({{% resource_link def85f00-40f9-75f0-4559-506b06d54c84 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -157,7 +158,7 @@ Regional Economic Development and Public Investment (cont.)
 Labor Markets - Recruitment/Job Search
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/tpp_ses10_emp_ne))
+({{% resource_link 07c3fd0b-8db8-b69d-8eb0-8023e585357a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -199,7 +200,7 @@ Negotiations/Dispute Resolution Systems Case Studies (cont.)
 Practitioner Panel
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/tpp_ses13_con_cl))
+({{% resource_link 4c0e5b3e-7428-909f-08d1-526731233470 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
