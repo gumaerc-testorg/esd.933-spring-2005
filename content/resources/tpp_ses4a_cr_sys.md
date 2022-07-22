@@ -10,6 +10,7 @@ file: /courses/esd-933-technology-policy-negotiations-and-dispute-resolution-spr
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ uid: 987c411d-1058-fabf-0a86-b0bae10cb260
 ---
 This resource provides information about conflict resolution systems, selected mechanisms for dispute resolution in organizations, layers in a system for
 workplace dispute resolution and dispute resolution systems: functional and dysfunctional systems.
-

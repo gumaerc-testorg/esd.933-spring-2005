@@ -6,6 +6,7 @@ file: /courses/esd-933-technology-policy-negotiations-and-dispute-resolution-spr
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: tpp_ses10_emp_ne.pdf
 uid: 07c3fd0b-8db8-b69d-8eb0-8023e585357a
 ---
 This resource provides information about employment considerations and additional considerations in job search.
-

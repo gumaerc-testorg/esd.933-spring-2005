@@ -7,6 +7,7 @@ file: /courses/esd-933-technology-policy-negotiations-and-dispute-resolution-spr
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: tpp_ses2_str_neg.pdf
 uid: cbaca14d-0c01-b7fc-1b5c-391cdb9054a6
 ---
 This resource provides information about strategic negotiations, essence of strategy, essence of negotiations, bargaining strategies, sequencing forcing and fostering strategies.
-

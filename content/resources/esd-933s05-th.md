@@ -9,10 +9,10 @@ image_metadata:
   image-alt: The Five Step Negotiations Model. 1) Prepare 2)Bargain Over How to Bargain
     3) Open and Explore 4) Focus and Agree 5) Implement and Sustain
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: esd-933s05-th.jpg
 uid: 63522645-76df-e265-d2b0-a7903f5969f1
 ---
 New image Upload
-
