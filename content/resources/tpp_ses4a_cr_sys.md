@@ -7,6 +7,7 @@ description: 'This resource provides information about conflict resolution syste
   workplace dispute resolution and dispute resolution systems: functional and dysfunctional
   systems.'
 file: /courses/esd-933-technology-policy-negotiations-and-dispute-resolution-spring-2005/987c411d1058fabf0a86b0bae10cb260_tpp_ses4a_cr_sys.pdf
+file_size: 215782
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
