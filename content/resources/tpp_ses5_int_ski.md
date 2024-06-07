@@ -4,6 +4,7 @@ description: This resource provides information about interactive skills, commun
   during negotiations, positional and interest-based approaches to additional issues,
   stump speeches, elements of a stump speech and handling difficult questions.
 file: /courses/esd-933-technology-policy-negotiations-and-dispute-resolution-spring-2005/258b31e90822aa64a1452ce2c0c3d13e_tpp_ses5_int_ski.pdf
+file_size: 165246
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
