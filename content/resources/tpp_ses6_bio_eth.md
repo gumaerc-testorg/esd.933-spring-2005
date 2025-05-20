@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource provides information about council for bioethics: outcomes.'
-file: /ol-ocw-studio-app/courses/esd-933-technology-policy-negotiations-and-dispute-resolution-spring-2005/91e99e7b99bef31ec03e9872aacdfb5b_tpp_ses6_bio_eth.pdf
+file: /courses/esd-933-technology-policy-negotiations-and-dispute-resolution-spring-2005/91e99e7b99bef31ec03e9872aacdfb5b_tpp_ses6_bio_eth.pdf
 file_size: 161177
 file_type: application/pdf
 learning_resource_types:
